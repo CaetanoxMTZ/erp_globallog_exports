@@ -40,5 +40,3 @@ Este projeto está licenciado sob a Licença MIT.
 
 ```pip install -r requirements.txt```
 
-
-```git clone https://github.com/CaetanoxMTZ/erp_globallog_exports.git)https://github.com/CaetanoxMTZ/erp_globallog_exports.git´´´
